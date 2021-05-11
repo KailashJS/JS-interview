@@ -1,0 +1,22 @@
+{
+  "name": "js-interview",
+  "version": "1.0.0",
+  "description": "Setup for solving Javascript Interview quesion for practise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "keywords": [
+    "Javascript",
+    "Mocha",
+    "Chai",
+    "Node.JS"
+  ],
+  "author": "Kaiash Chandra Bhakta",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0"
+  }
+}
