@@ -10,6 +10,7 @@ var magnitude = vector => {
     return ele * ele;
   })
   console.log(squaredV);
+
   let magV = squaredV.reduce(function(tot, elem) {
      return tot + elem;
   }, 0);
