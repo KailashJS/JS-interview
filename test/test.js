@@ -6,7 +6,7 @@ class test {
   }
 
   assertEquals(res, check) {
-    if (res === check) {
+    if (res == check) {
       console.log(chalk.green("Test Passed"));
     } else {
       console.log(chalk.red("Test Failed"));
